@@ -1,4 +1,4 @@
-LAB-2-CLass-Task-Arrays-Binary-Searc-and-Sorting
+LAB-2-CLass-Task-Arrays-Binary-Search-and-Sorting
 
 Name: Abdul Rafay
 
